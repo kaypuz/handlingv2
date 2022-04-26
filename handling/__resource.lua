@@ -9,7 +9,10 @@ data_file 'HANDLING_FILE' 'suvs.meta'
 data_file 'HANDLING_FILE' 'muscle.meta'
 data_file 'HANDLING_FILE' 'mpsum.meta'
 data_file 'HANDLING_FILE' 'mpheist3.meta'
+data_file 'HANDLING_FILE' 'mpheist4.meta'
 data_file 'HANDLING_FILE' 'mpvinewood.meta'
+data_file 'HANDLING_FILE' 'mptuner.meta'
+
 
 files {
 	'compacts.meta',
@@ -21,5 +24,7 @@ files {
 	'mpsum.meta',
 	'muscle.meta',
 	'mpvinewood.meta',
-	'mpheist3.meta'
+	'mpheist3.meta',
+	'mpheist4.meta',
+	'mptuner.meta'
 }
